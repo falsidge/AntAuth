@@ -1,7 +1,7 @@
 # AntAuth
 A reference implementation for server side third party use of UCI WebAuth
 
-# AntAuth
+# AntAuth.php
 Parses the WebAuth api into an object and handles login and logout
 
 # print.php
