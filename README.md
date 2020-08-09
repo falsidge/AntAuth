@@ -7,5 +7,5 @@ Parses the WebAuth api into an object and handles login and logout
 ## print.php
 Prints the WebAuth object
 
-#verify.php
+## verify.php
 Checks if users is logged in and securely verifies with a server
